@@ -1,4 +1,4 @@
 # FinalProject1KB
 In this project, HTML forms are being developed create new records, update records, and a small form that has no fields other than a submit button to delete records.
 
-![Screenshot1_Pycharm](/screenshots/Screenshot1_Pycharm.PNG)
+![Screenshot1_Pycharm](/screenshots/Screenshot1_Pycharm.png)
